@@ -1,0 +1,9 @@
+.myButton {
+    padding: 5px 15px;
+    border: 1px solid teal;
+    cursor: pointer;
+}
+
+.active {
+    background-color: rgb(52, 242, 65);
+}
